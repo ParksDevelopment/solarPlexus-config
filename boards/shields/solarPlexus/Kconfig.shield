@@ -1,0 +1,4 @@
+config SHIELD_SOLARPLEXUS_LEFT
+    def_bool $(shields_list_contains,solarPlexus_left)
+config SHIELD_SOLARPLEXUS_RIGHT
+    def_bool $(shields_list_contains,solarPlexus_right)

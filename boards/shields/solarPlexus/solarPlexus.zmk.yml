@@ -1,0 +1,10 @@
+file_format: "1"
+id: solarPlexus
+name: solarPlexus
+type: shield
+requires: [seeed_xiao]
+features:
+  - keys
+siblings:
+  - solarPlexus_left
+  - solarPlexus_right
